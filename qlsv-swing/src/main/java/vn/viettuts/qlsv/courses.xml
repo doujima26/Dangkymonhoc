@@ -1,0 +1,12 @@
+<courses>
+    <course>
+        <courseId>CS101</courseId>
+        <courseName>Introduction to Computer Science</courseName>
+        <courseType>Lý thuyết</courseType>
+        <maxTheoryStudents>100</maxTheoryStudents>
+        <maxPracticalStudents>0</maxPracticalStudents>
+        <startTime>2024-01-15</startTime>
+        <endTime>2024-05-15</endTime>
+    </course>
+    <!-- Thêm các học phần khác -->
+</courses>

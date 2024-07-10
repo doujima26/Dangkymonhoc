@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Students>
+    <Student>
+        <StudentId>312</StudentId>
+        <FullName>thangg</FullName>
+        <BirthDate>2024-06-13</BirthDate>
+        <Gender>Nam</Gender>
+        <RegisteredCourses>hoa</RegisteredCourses>
+    </Student>
+    <Student>
+        <StudentId>321</StudentId>
+        <FullName>minh</FullName>
+        <BirthDate>2024-06-12</BirthDate>
+        <Gender>Nữ</Gender>
+        <RegisteredCourses>lyy</RegisteredCourses>
+    </Student>
+    <Student>
+        <StudentId>123</StudentId>
+        <FullName>trường</FullName>
+        <BirthDate>2024-06-04</BirthDate>
+        <Gender>Nam</Gender>
+        <RegisteredCourses>toan</RegisteredCourses>
+    </Student>
+    <Student>
+        <StudentId>413</StudentId>
+        <FullName>mai</FullName>
+        <BirthDate>2024-06-06</BirthDate>
+        <Gender>Nam</Gender>
+        <RegisteredCourses>toan</RegisteredCourses>
+    </Student>
+    <Student>
+        <StudentId>413</StudentId>
+        <FullName>mai</FullName>
+        <BirthDate>2024-06-06</BirthDate>
+        <Gender>Nam</Gender>
+        <RegisteredCourses>lyy</RegisteredCourses>
+    </Student>
+    <Student>
+        <StudentId>413</StudentId>
+        <FullName>mai</FullName>
+        <BirthDate>2024-06-06</BirthDate>
+        <Gender>Nam</Gender>
+        <RegisteredCourses>hoa</RegisteredCourses>
+    </Student>
+</Students>

@@ -1,0 +1,12 @@
+<students>
+    <student>
+        <studentId>SV001</studentId>
+        <fullName>Nguyen Van A</fullName>
+        <birthDate>2000-01-01</birthDate>
+        <gender>Nam</gender>
+        <registeredCourses>
+            <course>Introduction to Computer Science</course>
+        </registeredCourses>
+    </student>
+    <!-- Thêm các sinh viên khác -->
+</students>

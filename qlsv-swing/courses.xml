@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Courses>
+    <Course>
+        <CourseId>123</CourseId>
+        <CourseName>lyy</CourseName>
+        <CourseType>Lý thuyết</CourseType>
+        <MaxTheoryStudents>231</MaxTheoryStudents>
+        <MaxPracticalStudents>0</MaxPracticalStudents>
+        <StartTime>2024-06-06</StartTime>
+        <EndTime>2024-09-18</EndTime>
+    </Course>
+    <Course>
+        <CourseId>1312</CourseId>
+        <CourseName>hoa</CourseName>
+        <CourseType>Hỗn hợp</CourseType>
+        <MaxTheoryStudents>123</MaxTheoryStudents>
+        <MaxPracticalStudents>12</MaxPracticalStudents>
+        <StartTime>2024-06-05</StartTime>
+        <EndTime>2024-09-14</EndTime>
+    </Course>
+    <Course>
+        <CourseId>124</CourseId>
+        <CourseName>toan</CourseName>
+        <CourseType>Thực hành</CourseType>
+        <MaxTheoryStudents>0</MaxTheoryStudents>
+        <MaxPracticalStudents>312</MaxPracticalStudents>
+        <StartTime>2024-06-04</StartTime>
+        <EndTime>2024-10-18</EndTime>
+    </Course>
+</Courses>
